@@ -1,4 +1,4 @@
-<h1>Option Trading Algorithm with GARCH and General Additive Binomial Pricing</h1></br></br>
+<h1>Option Trading Algorithm with GARCH and General Additive Binomial Pricing</h1></br>
 Scott Griffin, The University of Iowa, 2023</br></br>
 The <b>Generalized Autoregressive Conditional Heteroskedasticity (GARCH)</b> model is a statistical model used to analyze and forecast volatility in financial time series data.</br></br>
 The <b>General Additive Binomial Pricing Model</b> is a financial model used to value options. It's an extension of the classic binomial option pricing model, incorporating additional factors and complexities to provide more accurate option pricing.</br></br>
